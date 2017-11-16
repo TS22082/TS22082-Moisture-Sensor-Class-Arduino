@@ -1,0 +1,3 @@
+MoistureDetector	KEYWORD1
+getSensorValue	KEYWORD2
+power	KEYWORD2
